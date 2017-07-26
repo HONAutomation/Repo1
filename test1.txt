@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is FE74-18B9
+
+ Directory of C:\E571229_backup\Tania\2017_MyWork\DEVOPS\Git_Myproject
+
+07/26/2017  12:07 AM    <DIR>          .
+07/26/2017  12:07 AM    <DIR>          ..
+07/26/2017  12:07 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   6,238,154,752 bytes free
